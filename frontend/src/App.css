@@ -201,6 +201,7 @@ nav svg {
   cursor: default;
   border: 10px;
   border-radius: 10px;
+  cursor: pointer;
 }
 @media (max-width: 620px) {
   .hero {
@@ -290,6 +291,7 @@ nav svg {
   width: fit-content;
   border: 10px;
   border-radius: 10px;
+  cursor: pointer;
 }
 .contact .banner:last-child .item form input:focus,
 .contact .banner:last-child .item form textarea:focus {
